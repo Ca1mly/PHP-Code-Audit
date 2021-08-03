@@ -12,7 +12,7 @@ https://www.jetbrains.com/phpstorm/download/
 
 
 
-<img src="\image-20210803221938772.png" alt="image-20210803221938772" style="zoom:50%;" />
+<img src="\typora-user-images\image-20210803221938772.png" alt="image-20210803221938772" style="zoom:50%;" />
 
 2. 下载xdebug的文件后，移动到你phpstudy的路径下面，我的是D:\phpStudy\PHPTutorial\php\php-7.2.1-nts\ext 。然后编辑D:\phpStudy\PHPTutorial\php\php-7.2.1-nts\php.ini 文件，在最后一行添加	
 
